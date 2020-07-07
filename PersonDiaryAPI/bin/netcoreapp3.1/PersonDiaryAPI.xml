@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PersonDiaryAPI</name>
+    </assembly>
+    <members>
+        <member name="M:PersonDiaryAPI.Controllers.DiariesController.GetAllDiarys">
+            <summary>
+            Retrieves the list of Diaries
+            </summary>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:PersonDiaryAPI.Controllers.DiariesController.GetDiaryById(System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "M:PersonDiaryAPI.Controllers.DiariesController.UpdateDiary(System.Int32,PersonDiaryAPI.Dtos.DiaryUpdateDto)" -->
+        <!-- Badly formed XML comment ignored for member "M:PersonDiaryAPI.Controllers.DiariesController.CreateDiary(PersonDiaryAPI.Dtos.DiaryCreateDto)" -->
+        <!-- Badly formed XML comment ignored for member "M:PersonDiaryAPI.Controllers.DiariesController.DeleteDiary(System.Int32)" -->
+    </members>
+</doc>
